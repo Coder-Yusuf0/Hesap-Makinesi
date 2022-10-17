@@ -1,0 +1,9 @@
+C:\Users\Yusuf\OneDrive\Belgeler\C# Projeleri\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\Yusuf\OneDrive\Belgeler\C# Projeleri\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\Yusuf\OneDrive\Belgeler\C# Projeleri\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\Yusuf\OneDrive\Belgeler\C# Projeleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\Belgeler\C# Projeleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\Yusuf\OneDrive\Belgeler\C# Projeleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\Belgeler\C# Projeleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.Cache
+C:\Users\Yusuf\OneDrive\Belgeler\C# Projeleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\Yusuf\OneDrive\Belgeler\C# Projeleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
